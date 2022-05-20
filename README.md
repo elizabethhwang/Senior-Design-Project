@@ -1,5 +1,5 @@
 # Senior-Design-Project
-This is the repository for the Senior Design Project.
+This is the repository for the Senior Design Project code.
 
 ## By: Elizabeth Hwang and Alexandria Perez
 
