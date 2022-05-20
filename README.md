@@ -1,6 +1,8 @@
 # Senior-Design-Project
 This is the repository for the Senior Design Project.
 
+## By: Elizabeth Hwang, Alexandria Perez
+
 ### Project Advisor: Dr. Norali Pernalete
 All of the code is written in C++, using the Arduino IDE.
 
