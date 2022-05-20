@@ -1,3 +1,6 @@
+//This code was used to test the bending and opening of the hand, with a 2 second delay between the different positions.
+
+
 #include <Servo.h>
 
 Servo myservo1;
